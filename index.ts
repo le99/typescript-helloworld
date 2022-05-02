@@ -29,7 +29,7 @@ app.get('/', (req, res) => {
 
 app.post('/', (req, res) => {
   let cat: Cat = req.body;
-  res.json("hi: " + cat.mm)
+  res.json("hi22: " + cat.mm)
 })
 
 app.listen(port, () => {

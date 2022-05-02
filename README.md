@@ -10,8 +10,11 @@ npm run dev
 
 # Run
 npm start
-```
 
+
+#Nodemon
+npm run nodemon
+```
 
 
 
